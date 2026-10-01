@@ -1,0 +1,58 @@
+{
+    "validation": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "weighted_f1": 1.0
+    },
+    "challenge": {
+        "samples": 5000,
+        "accuracy": 0.941,
+        "top3_accuracy": 0.9882,
+        "macro_precision": 0.9499913091733913,
+        "macro_recall": 0.9410000000000001,
+        "macro_f1": 0.9406365879901669,
+        "weighted_precision": 0.9499913091733914,
+        "weighted_recall": 0.941,
+        "weighted_f1": 0.9406365879901668,
+        "correct": 4705,
+        "incorrect": 295,
+        "high_confidence_errors": 49,
+        "per_intent_accuracy": {
+            "addition": 1.0,
+            "cagr": 1.0,
+            "compound_interest": 1.0,
+            "division": 1.0,
+            "emi": 1.0,
+            "equation": 0.824,
+            "factorial": 0.92,
+            "generic_expression": 0.692,
+            "logarithm": 1.0,
+            "multiplication": 1.0,
+            "percent_decrease": 1.0,
+            "percent_increase": 0.78,
+            "percentage": 1.0,
+            "power": 1.0,
+            "simple_interest": 1.0,
+            "square_root": 1.0,
+            "statistics": 0.996,
+            "subtraction": 1.0,
+            "trigonometry": 0.768,
+            "unit_conversion": 0.84
+        },
+        "prediction_time_seconds": 0.683,
+        "confidence": {
+            "mean_confidence": 0.9406794905662537,
+            "median_confidence": 0.9974364042282104,
+            "min_confidence": 0.16111993789672852,
+            "max_confidence": 0.9999998807907104,
+            "correct_mean_confidence": 0.9675648212432861,
+            "incorrect_mean_confidence": 0.5118823051452637,
+            "high_confidence_errors": 49,
+            "samples_below_0_50": 225,
+            "samples_below_0_70": 414,
+            "samples_above_or_equal_0_90": 4342
+        }
+    },
+    "challenge_used_for_training": false,
+    "challenge_exact_overlap_with_main_dataset": 0
+}

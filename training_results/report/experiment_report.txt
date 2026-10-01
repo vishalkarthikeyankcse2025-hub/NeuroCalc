@@ -1,0 +1,77 @@
+NEUROCALC — FINAL ML TRAINING EXPERIMENT REPORT
+============================================================================
+
+Experiment date: 2026-10-01T05:10:34
+Dataset: neurocalc_dataset_1m.csv
+Original rows: 1,000,000
+Usable rows: 1,000,000
+Duplicate texts removed: 0
+Intents: 20
+Training rows: 800,000
+Testing rows: 200,000
+
+FEATURE ENGINEERING
+----------------------------------------------------------------------------
+Math-aware operator tokenization: ENABLED
+Word TF-IDF: 1–3 grams
+Word maximum features: 100,000
+Character TF-IDF: char_wb 3–5 grams
+Character maximum features: 50,000
+Combined actual features: 150,000
+
+CLASSIFIER
+----------------------------------------------------------------------------
+Logistic Regression
+Solver: saga
+C: 4.0
+Maximum iterations: 150
+
+RESULTS
+----------------------------------------------------------------------------
+Accuracy: 100.0000%
+Top-3 accuracy: 100.0000%
+Macro Precision: 100.0000%
+Macro Recall: 100.0000%
+Macro F1: 100.0000%
+Weighted Precision: 100.0000%
+Weighted Recall: 100.0000%
+Weighted F1: 100.0000%
+Correct predictions: 200,000
+Incorrect predictions: 0
+High-confidence errors (>=90%): 0
+Mean confidence: 99.9031%
+Expected calibration error: 0.0969%
+
+INDEPENDENT SYNTHETIC CHALLENGE
+----------------------------------------------------------------------------
+Challenge file: neurocalc_challenge_5k.csv
+Challenge samples: 5,000
+Used during training: NO
+Exact overlap with main dataset: 0
+Challenge Accuracy: 94.1000%
+Challenge Top-3 Accuracy: 98.8200%
+Challenge Macro F1: 94.0637%
+Challenge Weighted F1: 94.0637%
+Challenge Correct: 4,705
+Challenge Incorrect: 295
+Challenge High-confidence errors: 49
+
+TIMING
+----------------------------------------------------------------------------
+Training time: 12.72 minutes
+Prediction time: 28.66 seconds
+Total pipeline: 13.42 minutes
+
+OUTPUTS
+----------------------------------------------------------------------------
+Model: C:\Users\visha\Desktop\NeuroCalc\models\neurocalc_intent_model_1m.joblib
+Graphs: C:\Users\visha\Desktop\NeuroCalc\training_results\graphs
+Report: C:\Users\visha\Desktop\NeuroCalc\training_results\report
+Train data: C:\Users\visha\Desktop\NeuroCalc\training_results\data\train_data.csv
+Test data: C:\Users\visha\Desktop\NeuroCalc\training_results\data\test_data.csv
+
+LIMITATION
+----------------------------------------------------------------------------
+The dataset is synthetic. Validation performance on synthetic examples
+does not by itself establish real-world natural-language accuracy.
+A separate human-written evaluation set should be used for final claims.

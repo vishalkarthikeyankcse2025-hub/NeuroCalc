@@ -1,0 +1,26 @@
+                    precision    recall  f1-score   support
+
+          addition       0.86      1.00      0.92       250
+              cagr       1.00      1.00      1.00       250
+ compound_interest       1.00      1.00      1.00       250
+          division       1.00      1.00      1.00       250
+               emi       1.00      1.00      1.00       250
+          equation       1.00      0.82      0.90       250
+         factorial       0.99      0.92      0.95       250
+generic_expression       1.00      0.69      0.82       250
+         logarithm       0.96      1.00      0.98       250
+    multiplication       0.91      1.00      0.95       250
+  percent_decrease       1.00      1.00      1.00       250
+  percent_increase       1.00      0.78      0.88       250
+        percentage       0.69      1.00      0.82       250
+             power       0.91      1.00      0.95       250
+   simple_interest       1.00      1.00      1.00       250
+       square_root       0.95      1.00      0.97       250
+        statistics       0.97      1.00      0.98       250
+       subtraction       0.99      1.00      0.99       250
+      trigonometry       0.77      0.77      0.77       250
+   unit_conversion       1.00      0.84      0.91       250
+
+          accuracy                           0.94      5000
+         macro avg       0.95      0.94      0.94      5000
+      weighted avg       0.95      0.94      0.94      5000

@@ -1,0 +1,49 @@
+{
+    "model_type": "Math-aware Word + Character TF-IDF + Logistic Regression",
+    "math_operator_tokenization": true,
+    "word_ngram_range": [
+        1,
+        3
+    ],
+    "word_min_df": 2,
+    "word_max_df": 0.995,
+    "word_max_features": 100000,
+    "word_actual_features": 100000,
+    "char_analyzer": "char_wb",
+    "char_ngram_range": [
+        3,
+        5
+    ],
+    "char_min_df": 2,
+    "char_max_df": 0.995,
+    "char_max_features": 50000,
+    "char_actual_features": 50000,
+    "actual_combined_features": 150000,
+    "logistic_regression_solver": "saga",
+    "logistic_regression_C": 4.0,
+    "logistic_regression_max_iter": 150,
+    "class_weight": null,
+    "classes": [
+        "addition",
+        "cagr",
+        "compound_interest",
+        "division",
+        "emi",
+        "equation",
+        "factorial",
+        "generic_expression",
+        "logarithm",
+        "multiplication",
+        "percent_decrease",
+        "percent_increase",
+        "percentage",
+        "power",
+        "simple_interest",
+        "square_root",
+        "statistics",
+        "subtraction",
+        "trigonometry",
+        "unit_conversion"
+    ],
+    "random_state": 42
+}

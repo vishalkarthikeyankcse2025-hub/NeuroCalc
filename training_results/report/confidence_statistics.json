@@ -1,0 +1,14 @@
+{
+    "mean_confidence": 0.9990306496620178,
+    "median_confidence": 0.999388575553894,
+    "min_confidence": 0.8884578943252563,
+    "max_confidence": 1.0,
+    "correct_mean_confidence": 0.9990306496620178,
+    "incorrect_mean_confidence": NaN,
+    "samples_below_0_50": 0,
+    "samples_below_0_70": 0,
+    "samples_above_or_equal_0_90": 199997,
+    "high_confidence_errors": 0,
+    "expected_calibration_error": 0.0009693762767315013,
+    "multiclass_log_loss": 0.0009708284051157534
+}

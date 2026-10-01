@@ -1,0 +1,30 @@
+{
+    "rows": 5000,
+    "intents": 20,
+    "rows_per_intent": {
+        "addition": 250,
+        "cagr": 250,
+        "compound_interest": 250,
+        "division": 250,
+        "emi": 250,
+        "equation": 250,
+        "factorial": 250,
+        "generic_expression": 250,
+        "logarithm": 250,
+        "multiplication": 250,
+        "percent_decrease": 250,
+        "percent_increase": 250,
+        "percentage": 250,
+        "power": 250,
+        "simple_interest": 250,
+        "square_root": 250,
+        "statistics": 250,
+        "subtraction": 250,
+        "trigonometry": 250,
+        "unit_conversion": 250
+    },
+    "used_for_training": false,
+    "exact_text_overlap_with_main_dataset": 0,
+    "synthetic": true,
+    "human_written": false
+}

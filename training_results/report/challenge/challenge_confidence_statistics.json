@@ -1,0 +1,12 @@
+{
+    "mean_confidence": 0.9406794905662537,
+    "median_confidence": 0.9974364042282104,
+    "min_confidence": 0.16111993789672852,
+    "max_confidence": 0.9999998807907104,
+    "correct_mean_confidence": 0.9675648212432861,
+    "incorrect_mean_confidence": 0.5118823051452637,
+    "high_confidence_errors": 49,
+    "samples_below_0_50": 225,
+    "samples_below_0_70": 414,
+    "samples_above_or_equal_0_90": 4342
+}

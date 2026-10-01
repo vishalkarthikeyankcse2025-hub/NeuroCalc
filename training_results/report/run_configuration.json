@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-10-01T05:10:34",
+    "python_version": "3.11.9",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "dataset": "C:\\Users\\visha\\Desktop\\NeuroCalc\\data\\neurocalc_dataset_1m.csv",
+    "random_state": 42,
+    "test_size": 0.2,
+    "operator_aware_features": true,
+    "feature_spaces": [
+        "word_tfidf",
+        "char_wb_tfidf"
+    ]
+}

@@ -1,0 +1,296 @@
+text,actual_intent,predicted_intent,confidence,correct
+"Can you grow 302,694 by 39.68 percent",percent_increase,percentage,0.47568604,False
+"Turn 13,203.92 degrees F into Celsius exactly",unit_conversion,trigonometry,0.92807674,False
+Figure out what does 3075^4 + 349 come to exactly,generic_expression,power,0.75038594,False
+I'd like to know what does 54 * 23 + 51 come to if possible,generic_expression,multiplication,0.4717096,False
+Figure out give me the value of 3878^4 + 915 if possible,generic_expression,power,0.7837548,False
+"I need you to find x where 57x - 69 equals 15,948 for me",equation,addition,0.4027418,False
+I want to calculate what does log10(100) + 373 come to please,generic_expression,logarithm,0.9305231,False
+I'd like to know calculate 8! if possible,factorial,power,0.65796745,False
+"Turn 13,399.17 degrees F into Celsius for me",unit_conversion,trigonometry,0.9591763,False
+"Turn 31,525.6 degrees F into Celsius exactly",unit_conversion,trigonometry,0.9334746,False
+"Work out grow 397,723 by 94.85 percent please",percent_increase,percentage,0.48459417,False
+"Could you grow 1,038,768 by 38.21 percent",percent_increase,percentage,0.42975917,False
+"Turn 87,779.79 degrees F into Celsius exactly",unit_conversion,trigonometry,0.9527898,False
+I want to calculate give me the value of sqrt(23) + 786 if possible,generic_expression,square_root,0.65713966,False
+Figure out what is tan(341.52) exactly,trigonometry,percentage,0.38262787,False
+Please calculate 17!?,factorial,trigonometry,0.3641715,False
+"Work out grow 390,324 by 58.14 percent if possible",percent_increase,percentage,0.47808117,False
+"Turn 87,115.21 degrees F into Celsius?",unit_conversion,trigonometry,0.9490404,False
+I want to calculate give me the value of sqrt(4538) + 263 for me,generic_expression,square_root,0.7181084,False
+Could you calculate 10!,factorial,trigonometry,0.25389403,False
+"Work out find x where 34x + 974 equals 14,642 if possible",equation,addition,0.27208856,False
+I need you to what does log10(10) + 469 come to please,generic_expression,logarithm,0.9642556,False
+Help me what does (3913 + 686) * 2 come to,generic_expression,multiplication,0.60252196,False
+"I need you to find x where 31x - 451 equals 12,755 exactly",equation,addition,0.4014207,False
+"Please find x where 27x + 343 equals -12,509 exactly",equation,addition,0.24594271,False
+Can you what is tan(254.22),trigonometry,percentage,0.5067177,False
+"Turn 80,801.98 degrees F into Celsius for me",unit_conversion,trigonometry,0.95062286,False
+Can you what does sin(233) come to please,generic_expression,addition,0.23361775,False
+Help me what is cos(300.1) please,trigonometry,percentage,0.32836002,False
+Could you give me the value of sqrt(1403) + 584 exactly,generic_expression,square_root,0.78843176,False
+"Tell me find x where 22x + 194 equals 8,026 exactly",equation,addition,0.22570886,False
+"Could you grow 744,792 by 59.01 percent?",percent_increase,percentage,0.28977904,False
+"Work out find x where 23x - 113 equals -4,598",equation,statistics,0.32431933,False
+Can you what does 2668 * 8 + 314 come to,generic_expression,multiplication,0.65410626,False
+Work out what does log10(10) + 134 come to please,generic_expression,logarithm,0.9606165,False
+"I'd like to know find x where 47x - 862 equals 12,392",equation,addition,0.41765407,False
+Can you give me the value of 3362^3 + 639 for me,generic_expression,power,0.8074279,False
+Figure out what does 4336 * 8 + 389 come to exactly,generic_expression,multiplication,0.55350655,False
+"Can you find x where 5x - 147 equals 1,128 for me",equation,addition,0.2967697,False
+Can you calculate 13!?,factorial,trigonometry,0.45371503,False
+Figure out what does (1271 + 918) * 6 come to,generic_expression,multiplication,0.58844906,False
+I want to calculate calculate 9! please,factorial,power,0.46079567,False
+I'd like to know what does sin(73) come to exactly,generic_expression,addition,0.16913113,False
+I'd like to know what is cos(153.95) exactly,trigonometry,percentage,0.19910632,False
+I want to calculate find x where 3x - 1 equals 605 for me,equation,factorial,0.17921825,False
+I'd like to know what does 2825^2 + 894 come to if possible,generic_expression,power,0.5747623,False
+I want to calculate what is tan(256.12),trigonometry,percentage,0.39263016,False
+Could you what is cos(163.17)?,trigonometry,percentage,0.36102557,False
+Tell me what is cos(318.75) for me,trigonometry,percentage,0.2453706,False
+Help me give me the value of 263^3 + 520 please,generic_expression,power,0.8065335,False
+Tell me what is cos(352.55),trigonometry,percentage,0.4554945,False
+"Turn 84,819.1 degrees F into Celsius",unit_conversion,trigonometry,0.9537034,False
+I want to calculate what does log10(100) + 326 come to?,generic_expression,logarithm,0.9298937,False
+"Turn 87,235.88 degrees F into Celsius?",unit_conversion,trigonometry,0.9512741,False
+"I want to calculate grow 409,986 by 78.74 percent for me",percent_increase,percentage,0.49455237,False
+I'd like to know what is sin(87.41) exactly,trigonometry,percentage,0.19220865,False
+"I need you to grow 1,717,888 by 9.64 percent if possible",percent_increase,percentage,0.3324949,False
+I need you to give me the value of sqrt(2953) + 529 exactly,generic_expression,square_root,0.7743611,False
+"Figure out grow 506,234 by 31.96 percent?",percent_increase,percentage,0.36059207,False
+"Can you grow 1,406,300 by 40.87 percent",percent_increase,percentage,0.4630999,False
+I'd like to know what does (504 + 965) * 2 come to exactly,generic_expression,multiplication,0.5921424,False
+Help me what does sin(179) come to please,generic_expression,addition,0.22221558,False
+Can you calculate 17!?,factorial,trigonometry,0.45528653,False
+Please give me the value of 3450^5 + 412 if possible,generic_expression,power,0.7959627,False
+Tell me what is cos(353.35)?,trigonometry,percentage,0.5989837,False
+Please what does (2662 + 36) * 13 come to exactly,generic_expression,multiplication,0.61788726,False
+Tell me what is sin(275.54) for me,trigonometry,percentage,0.25680897,False
+"I need you to find x where 26x - 437 equals 9,625 if possible",equation,addition,0.2988474,False
+"Figure out find x where 77x - 403 equals -14,263?",equation,addition,0.2730654,False
+"Turn 6,900.66 degrees F into Celsius exactly",unit_conversion,trigonometry,0.9386495,False
+"Turn 24,441.25 degrees F into Celsius exactly",unit_conversion,trigonometry,0.9486785,False
+"Help me find x where 81x - 469 equals -11,161 if possible",equation,addition,0.26779804,False
+Figure out what does 4253^3 + 382 come to exactly,generic_expression,power,0.75073576,False
+Work out what does log10(10) + 362 come to exactly,generic_expression,logarithm,0.93089265,False
+"Turn 14,993.55 degrees F into Celsius",unit_conversion,trigonometry,0.94965315,False
+Please what does sin(204) come to for me,generic_expression,trigonometry,0.18433498,False
+Help me what does sin(284) come to?,generic_expression,trigonometry,0.19850665,False
+I'd like to know what is sin(125.47) exactly,trigonometry,addition,0.1711759,False
+Can you what does 3743^3 + 669 come to please,generic_expression,power,0.7795378,False
+"Could you find x where 50x - 888 equals 5,612 if possible",equation,addition,0.22451441,False
+Please what does (658 + 618) * 7 come to,generic_expression,multiplication,0.66263735,False
+"Turn 83,877.75 degrees F into Celsius?",unit_conversion,trigonometry,0.9481188,False
+I need you to what is cos(8.25) please,trigonometry,addition,0.25807142,False
+I want to calculate calculate 1! if possible,factorial,power,0.5672612,False
+I'd like to know what does 2516 * 19 + 75 come to,generic_expression,multiplication,0.6152184,False
+"Turn 19,443.86 degrees F into Celsius",unit_conversion,trigonometry,0.968978,False
+"Turn 8,548.03 degrees F into Celsius?",unit_conversion,trigonometry,0.9462883,False
+"Tell me find x where 35x - 179 equals -4,799 if possible",equation,statistics,0.24962665,False
+"Help me find x where 58x + 531 equals -4,283",equation,statistics,0.2765639,False
+Help me what is sin(328.78) please,trigonometry,percentage,0.39522132,False
+Figure out what does 196 * 11 + 490 come to exactly,generic_expression,multiplication,0.5796384,False
+"I'd like to know work out the median from these numbers -14,246, 18,252, 17,733 exactly",statistics,subtraction,0.4465155,False
+Could you give me the value of sqrt(4316) + 217 exactly,generic_expression,square_root,0.7425729,False
+I'd like to know what is tan(43.41)?,trigonometry,percentage,0.30396622,False
+"Figure out grow 1,691,815 by 28.21 percent please",percent_increase,percentage,0.4334072,False
+"Can you grow 1,007,179 by 65.79 percent?",percent_increase,percentage,0.27599517,False
+Could you what is sin(7.01)?,trigonometry,percentage,0.36056024,False
+"Help me grow 1,637,219 by 5.56 percent please",percent_increase,percentage,0.36202857,False
+"Turn 52,089.58 degrees F into Celsius if possible",unit_conversion,trigonometry,0.95152414,False
+"Figure out find x where 76x - 391 equals 15,873",equation,addition,0.3206312,False
+"Could you grow 1,938,743 by 54.57 percent please",percent_increase,percentage,0.37740812,False
+Please what does 277 * 17 + 910 come to,generic_expression,multiplication,0.6735158,False
+I want to calculate what is tan(5.02) if possible,trigonometry,percentage,0.37539193,False
+"Figure out find x where 58x + 247 equals -5,437 please",equation,statistics,0.23315535,False
+Please what does 308 * 16 + 580 come to?,generic_expression,multiplication,0.6862877,False
+"Turn 22,879.04 degrees F into Celsius for me",unit_conversion,trigonometry,0.957996,False
+Could you what is cos(357.59)?,trigonometry,percentage,0.36712572,False
+Help me what does sin(218) come to if possible,generic_expression,trigonometry,0.16111994,False
+"I'd like to know find x where 89x - 126 equals -39,820 please",equation,addition,0.3637884,False
+"Help me grow 496,004 by 27.78 percent please",percent_increase,percentage,0.40292567,False
+Figure out what is sin(263.48)?,trigonometry,percentage,0.50734407,False
+Help me calculate 19!,factorial,trigonometry,0.40289912,False
+I want to calculate what is sin(289.23) if possible,trigonometry,percentage,0.36835012,False
+Tell me what is tan(74.61) for me,trigonometry,percentage,0.24333435,False
+"I want to calculate grow 245,672 by 36.07 percent please",percent_increase,percentage,0.551688,False
+Can you calculate 9! please,factorial,trigonometry,0.33504838,False
+"Work out find x where 78x + 582 equals -1,290?",equation,addition,0.22619434,False
+Figure out find x where 4x + 646 equals -590?,equation,addition,0.22088219,False
+Work out what is sin(241.18),trigonometry,percentage,0.45003876,False
+"Turn 81,457.16 degrees F into Celsius?",unit_conversion,trigonometry,0.9424955,False
+"Help me find x where 27x - 633 equals -6,627 exactly",equation,statistics,0.18651803,False
+I need you to give me the value of log10(1000) + 565?,generic_expression,logarithm,0.582674,False
+"Work out find x where 8x + 993 equals -1,079?",equation,statistics,0.23282719,False
+Figure out what does sin(107) come to?,generic_expression,trigonometry,0.22389774,False
+"Help me grow 448,801 by 65.57 percent",percent_increase,percentage,0.46668378,False
+I need you to calculate 8! please,factorial,power,0.3009426,False
+Tell me what does (2081 - 544) / 4 come to for me,generic_expression,subtraction,0.3604645,False
+Please what does 259 * 4 + 397 come to?,generic_expression,multiplication,0.6819711,False
+"Please find x where 65x - 502 equals 25,498 please",equation,addition,0.28591236,False
+Please what is cos(334) if possible,trigonometry,percentage,0.35829115,False
+Can you what does 3802 * 2 + 710 come to exactly,generic_expression,multiplication,0.5693004,False
+"I want to calculate grow 678,633 by 50.36 percent",percent_increase,percentage,0.61344105,False
+Can you what is tan(125.84) for me,trigonometry,percentage,0.19379188,False
+Figure out what does (1512 + 970) * 12 come to,generic_expression,multiplication,0.5855104,False
+Help me give me the value of 444^2 + 613 for me,generic_expression,power,0.49831176,False
+Help me what does sin(96) come to,generic_expression,trigonometry,0.17940678,False
+"I want to calculate grow 780,836 by 71.06 percent if possible",percent_increase,percentage,0.5368103,False
+Help me what is sin(173.2)?,trigonometry,percentage,0.3596245,False
+"Work out grow 883,333 by 6.18 percent for me",percent_increase,percentage,0.37885517,False
+"Turn 60,788.24 degrees F into Celsius",unit_conversion,trigonometry,0.962118,False
+"Turn 57,917.99 degrees F into Celsius?",unit_conversion,trigonometry,0.9463806,False
+Please what is cos(91.74),trigonometry,percentage,0.3335391,False
+Could you what is cos(118.06),trigonometry,percentage,0.35742465,False
+"I want to calculate find x where 83x - 934 equals 30,772 please",equation,addition,0.24365962,False
+"Help me grow 82,527 by 14.41 percent",percent_increase,percentage,0.50267494,False
+"Turn 58,691.74 degrees F into Celsius exactly",unit_conversion,trigonometry,0.95023745,False
+"Turn 32,402.79 degrees F into Celsius?",unit_conversion,trigonometry,0.9439281,False
+"Can you grow 795,183 by 12.87 percent for me",percent_increase,percentage,0.32993948,False
+"Turn 87,216.03 degrees F into Celsius please",unit_conversion,trigonometry,0.96406895,False
+I want to calculate calculate 7! please,factorial,power,0.43508223,False
+"Turn 60,225.57 degrees F into Celsius for me",unit_conversion,trigonometry,0.95976335,False
+"Turn 6,433.13 degrees F into Celsius?",unit_conversion,trigonometry,0.9303035,False
+"Can you grow 1,569,713 by 9.83 percent",percent_increase,percentage,0.43740025,False
+I need you to give me the value of sqrt(874) + 154 for me,generic_expression,square_root,0.84722084,False
+"Please find x where 73x - 88 equals 9,840?",equation,addition,0.25066105,False
+"Help me grow 1,928,197 by 90.72 percent exactly",percent_increase,percentage,0.37504247,False
+I'd like to know what does 239^2 + 913 come to if possible,generic_expression,power,0.59311086,False
+Could you what is cos(304.75) for me,trigonometry,percentage,0.19313821,False
+"I'd like to know find x where 40x + 918 equals -11,562 exactly",equation,addition,0.3292669,False
+"Could you find x where 37x + 208 equals -3,233 if possible",equation,statistics,0.22894607,False
+"Tell me grow 1,143,008 by 94.05 percent please",percent_increase,percentage,0.41786587,False
+"Turn 69,358.43 degrees F into Celsius",unit_conversion,trigonometry,0.9684256,False
+Can you what is cos(1.94) for me,trigonometry,percentage,0.2142852,False
+"Help me grow 1,254,106 by 78.27 percent if possible",percent_increase,percentage,0.39409956,False
+"Turn 57,680.46 degrees F into Celsius?",unit_conversion,trigonometry,0.9431769,False
+I want to calculate calculate 12! if possible,factorial,power,0.6422092,False
+Tell me what does log10(10000) + 524 come to?,generic_expression,logarithm,0.88152987,False
+Could you give me the value of sqrt(4888) + 362 if possible,generic_expression,square_root,0.7153075,False
+"Work out find x where 60x + 925 equals 3,385?",equation,addition,0.2166096,False
+"Turn 27,515.42 degrees F into Celsius please",unit_conversion,trigonometry,0.96110344,False
+Work out find x where 91x + 144 equals -129 for me,equation,addition,0.18690072,False
+I'd like to know find x where 15x + 235 equals -770 exactly,equation,addition,0.25459757,False
+"Help me grow 1,425,396 by 84.58 percent exactly",percent_increase,percentage,0.38823828,False
+I want to calculate give me the value of sqrt(3249) + 428?,generic_expression,square_root,0.6032031,False
+"Tell me grow 166,489 by 70.24 percent please",percent_increase,percentage,0.44604373,False
+"Figure out grow 1,627,870 by 45.97 percent",percent_increase,percentage,0.48319867,False
+"Help me grow 1,285,649 by 63.06 percent?",percent_increase,percentage,0.28780463,False
+Help me give me the value of 1806^4 + 984 please,generic_expression,power,0.8110448,False
+Tell me what is sin(297.76) exactly,trigonometry,percentage,0.38165632,False
+"Could you grow 1,418,202 by 86.79 percent",percent_increase,percentage,0.4318594,False
+"Figure out grow 1,240,514 by 12.52 percent please",percent_increase,percentage,0.40387797,False
+Tell me what is sin(359.57) for me,trigonometry,percentage,0.25128594,False
+"Turn 90,710.55 degrees F into Celsius exactly",unit_conversion,trigonometry,0.9342851,False
+I'd like to know what is tan(71.21)?,trigonometry,percentage,0.29511055,False
+Help me what does (4554 + 521) * 2 come to if possible,generic_expression,multiplication,0.5603739,False
+I need you to give me the value of log10(1000) + 782?,generic_expression,logarithm,0.5814814,False
+"Turn 88,307.46 degrees F into Celsius",unit_conversion,trigonometry,0.9626059,False
+Could you what does sqrt(1810) + 285 come to for me,generic_expression,square_root,0.9842249,False
+"Figure out grow 1,122,030 by 94.17 percent for me",percent_increase,percentage,0.34289235,False
+I want to calculate what is tan(280.84),trigonometry,percentage,0.41021287,False
+I need you to give me the value of sqrt(2411) + 511 for me,generic_expression,square_root,0.8660019,False
+Tell me what is tan(185.71) for me,trigonometry,percentage,0.24662063,False
+"Turn 73,598.65 degrees F into Celsius",unit_conversion,trigonometry,0.97048867,False
+Work out what is tan(356.5) if possible,trigonometry,percentage,0.3517726,False
+"I need you to grow 1,521,847 by 38.43 percent",percent_increase,percentage,0.3800352,False
+Could you calculate 20! if possible,factorial,power,0.18708654,False
+"Turn 99,506.95 degrees F into Celsius if possible",unit_conversion,trigonometry,0.9513865,False
+"Turn 90,810.38 degrees F into Celsius if possible",unit_conversion,trigonometry,0.95401996,False
+Help me find x where 19x + 435 equals -382?,equation,addition,0.2531029,False
+"Help me find x where 83x + 2 equals -14,274",equation,addition,0.27160645,False
+Help me what is cos(346.12) exactly,trigonometry,percentage,0.28420958,False
+"Turn 43,887.11 degrees F into Celsius if possible",unit_conversion,trigonometry,0.9529634,False
+"Turn 99,001.69 degrees F into Celsius for me",unit_conversion,trigonometry,0.95612645,False
+Figure out give me the value of 1160^3 + 411,generic_expression,power,0.7982626,False
+"I want to calculate grow 1,221,245 by 58.25 percent",percent_increase,percentage,0.56053454,False
+"Figure out grow 80,292 by 95.49 percent?",percent_increase,percentage,0.3645551,False
+"Turn 19,443.88 degrees F into Celsius if possible",unit_conversion,trigonometry,0.96029323,False
+Help me what is sin(113.31) please,trigonometry,percentage,0.31975082,False
+"Figure out find x where 78x - 619 equals 9,755 for me",equation,addition,0.22847289,False
+Figure out what is cos(296.08) please,trigonometry,percentage,0.40779048,False
+"Can you grow 1,275,724 by 4.66 percent if possible",percent_increase,percentage,0.39572307,False
+"Please grow 261,957 by 85.93 percent exactly",percent_increase,percentage,0.3313371,False
+"I'd like to know find x where 53x + 828 equals -15,337",equation,addition,0.36495522,False
+I'd like to know find x where 86x - 181 equals -181 if possible,equation,addition,0.23509918,False
+"Could you grow 351,796 by 61.3 percent please",percent_increase,percentage,0.4116755,False
+I want to calculate calculate 20!?,factorial,power,0.5119992,False
+I need you to what is tan(113)?,trigonometry,percentage,0.32959887,False
+Help me calculate 17!,factorial,trigonometry,0.4015963,False
+Tell me what is sin(107.42) exactly,trigonometry,percentage,0.36153322,False
+Figure out give me the value of 521^4 + 919 please,generic_expression,power,0.7917385,False
+Can you what does sin(211) come to,generic_expression,trigonometry,0.20453401,False
+Help me what does 1744 * 23 + 527 come to,generic_expression,multiplication,0.5431869,False
+"Tell me find x where 77x + 411 equals 35,138 if possible",equation,addition,0.20121866,False
+Work out what does log10(10000) + 900 come to please,generic_expression,logarithm,0.87444794,False
+I'd like to know calculate 17!,factorial,power,0.5991322,False
+I'd like to know what does sin(180) come to,generic_expression,addition,0.2108345,False
+"Work out grow 333,113 by 12 percent if possible",percent_increase,percentage,0.5092865,False
+I want to calculate what does sqrt(3602) + 358 come to if possible,generic_expression,square_root,0.94541365,False
+Figure out what is sin(63.05)?,trigonometry,percentage,0.5078344,False
+I'd like to know what does (412 + 892) * 24 come to for me,generic_expression,multiplication,0.5523158,False
+Please what does 157^5 + 604 come to?,generic_expression,power,0.7751185,False
+Work out what is cos(137.41)?,trigonometry,percentage,0.47340286,False
+Can you give me the value of 1562^4 + 240?,generic_expression,power,0.7927058,False
+I'd like to know what is sin(31.5) exactly,trigonometry,factorial,0.2449658,False
+"Could you grow 152,745 by 31.57 percent exactly",percent_increase,percentage,0.37584808,False
+"Work out find x where 38x + 402 equals 9,294 exactly",equation,addition,0.20364171,False
+"I need you to grow 1,509,034 by 92.1 percent if possible",percent_increase,percentage,0.3361208,False
+Tell me what is cos(351.94)?,trigonometry,percentage,0.4526091,False
+Tell me what does 3502 - (790 / 19) come to for me,generic_expression,subtraction,0.38596973,False
+"I need you to find x where 56x + 236 equals 22,300 if possible",equation,addition,0.28968814,False
+Figure out what does (1198 + 225) * 9 come to if possible,generic_expression,multiplication,0.53875583,False
+"Turn 61,646.43 degrees F into Celsius?",unit_conversion,trigonometry,0.94913673,False
+Work out what is tan(176.8) exactly,trigonometry,percentage,0.27058616,False
+"I'd like to know find x where 60x - 938 equals 8,302 if possible",equation,addition,0.26246145,False
+Turn 559.46 degrees F into Celsius,unit_conversion,trigonometry,0.9866058,False
+Can you what does (1411 + 280) * 4 come to,generic_expression,multiplication,0.6502821,False
+I'd like to know what does (1620 + 539) * 19 come to for me,generic_expression,multiplication,0.6058672,False
+Can you calculate 8! please,factorial,trigonometry,0.33212808,False
+Tell me give me the value of sqrt(1253) + 558 for me,generic_expression,square_root,0.8540885,False
+"Figure out grow 1,885,559 by 78.65 percent",percent_increase,percentage,0.49395013,False
+"I want to calculate grow 691,338 by 40.34 percent?",percent_increase,percentage,0.43854743,False
+"Help me grow 1,217,492 by 62.54 percent",percent_increase,percentage,0.44715643,False
+"Please grow 1,637,651 by 49.88 percent please",percent_increase,percentage,0.31416383,False
+I'd like to know what is cos(254.16) if possible,trigonometry,percentage,0.19724669,False
+"Please grow 1,571,370 by 65.8 percent exactly",percent_increase,percentage,0.3040684,False
+Can you what is sin(127.32) if possible,trigonometry,percentage,0.34652448,False
+I need you to calculate 9! if possible,factorial,power,0.51559544,False
+"I want to calculate grow 1,154,774 by 96.15 percent?",percent_increase,percentage,0.37612802,False
+Help me give me the value of 2594^3 + 133 if possible,generic_expression,power,0.8127455,False
+Please what does (2029 + 739) * 5 come to please,generic_expression,multiplication,0.6508025,False
+Figure out what is tan(282.86) please,trigonometry,percentage,0.41233787,False
+Figure out what is tan(135.11) if possible,trigonometry,percentage,0.48753992,False
+"Can you grow 1,154,392 by 66.83 percent please",percent_increase,percentage,0.36431816,False
+"Tell me find x where 94x - 120 equals 10,878 exactly",equation,addition,0.28661126,False
+"Tell me find x where 96x - 764 equals 3,076",equation,addition,0.23655064,False
+"I want to calculate find x where 64x + 46 equals -5,330?",equation,statistics,0.2237849,False
+"Turn 42,312.68 degrees F into Celsius for me",unit_conversion,trigonometry,0.95784587,False
+Help me what does 4214 * 7 + 670 come to please,generic_expression,multiplication,0.6101967,False
+Figure out what is tan(142.46),trigonometry,percentage,0.4566831,False
+"Figure out grow 1,981,754 by 50.42 percent please",percent_increase,percentage,0.43336767,False
+Please calculate 8!,factorial,trigonometry,0.37762445,False
+"Figure out grow 905,206 by 88.71 percent exactly",percent_increase,percentage,0.460252,False
+"Could you grow 1,297,772 by 50.85 percent?",percent_increase,percentage,0.26882645,False
+Tell me what is cos(313.86)?,trigonometry,percentage,0.46464342,False
+Work out what is sin(45.33) if possible,trigonometry,percentage,0.50186145,False
+"Work out grow 1,151,209 by 12.35 percent for me",percent_increase,percentage,0.32403147,False
+Can you what does sin(201) come to,generic_expression,addition,0.19663036,False
+"Turn 67,171.21 degrees F into Celsius please",unit_conversion,trigonometry,0.9648212,False
+"Turn 34,682.02 degrees F into Celsius please",unit_conversion,trigonometry,0.9627238,False
+Please what is tan(192.78)?,trigonometry,percentage,0.34907746,False
+Tell me calculate 9!?,factorial,trigonometry,0.4040091,False
+"I'd like to know find x where 17x + 350 equals 8,527",equation,addition,0.33820915,False
+I want to calculate what is cos(249.59) if possible,trigonometry,percentage,0.3652037,False
+Figure out what is cos(350.52)?,trigonometry,percentage,0.4644439,False
+Figure out what does 2559 * 25 + 699 come to for me,generic_expression,multiplication,0.52554303,False
+I'd like to know what is sin(308.68) exactly,trigonometry,percentage,0.19546956,False
+"I want to calculate grow 553,151 by 12.46 percent if possible",percent_increase,percentage,0.5286712,False
+Could you what is cos(76.73),trigonometry,percentage,0.38586184,False
+Tell me what is tan(55.99),trigonometry,percentage,0.52516663,False
+"Tell me grow 775,150 by 10.32 percent",percent_increase,percentage,0.50226694,False
+I want to calculate what does sqrt(3275) + 26 come to please,generic_expression,square_root,0.9738082,False
+Work out give me the value of log10(1000) + 700 please,generic_expression,logarithm,0.5103454,False
+"I need you to find x where 84x - 93 equals -4,041 for me",equation,addition,0.24756046,False
+"Can you grow 1,810,859 by 62.75 percent exactly",percent_increase,percentage,0.3806996,False
+I need you to what does log10(1000) + 266 come to?,generic_expression,logarithm,0.93470174,False

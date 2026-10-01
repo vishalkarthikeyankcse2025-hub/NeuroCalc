@@ -1,0 +1,301 @@
+intent,rank,feature,weight
+addition,1,WORD::and,12.446005821228027
+addition,2,CHAR::and ,7.452041149139404
+addition,3,CHAR:: and ,7.452041149139404
+addition,4,CHAR:: and,7.452041149139404
+addition,5,WORD::plus,7.405561923980713
+addition,6,WORD::add,7.156932353973389
+addition,7,CHAR::and,7.127784252166748
+addition,8,CHAR:: an,6.904956817626953
+addition,9,CHAR::add,5.592578411102295
+addition,10,CHAR:: ad,5.592578411102295
+addition,11,CHAR:: add,5.592578411102295
+addition,12,CHAR::dd ,4.818118572235107
+addition,13,CHAR:: add ,4.818118572235107
+addition,14,CHAR::add ,4.818118572235107
+addition,15,CHAR::nd ,4.720434188842773
+cagr,1,WORD::CAGR,6.531519412994385
+cagr,2,WORD::in,4.612414360046387
+cagr,3,WORD::years,4.608646392822266
+cagr,4,CHAR::CAGR ,4.234478950500488
+cagr,5,CHAR::CAGR,4.234478950500488
+cagr,6,CHAR::AGR,4.234478950500488
+cagr,7,CHAR::AGR ,4.234478950500488
+cagr,8,CHAR:: CAGR,4.234478950500488
+cagr,9,CHAR::CAG,4.234478950500488
+cagr,10,CHAR:: CAG,4.234478950500488
+cagr,11,CHAR:: CA,4.234478950500488
+cagr,12,CHAR::GR ,4.234478950500488
+cagr,13,WORD::CAGR from,3.8488030433654785
+cagr,14,WORD::calculate CAGR,3.007664203643799
+cagr,15,CHAR:: in ,2.954174518585205
+compound_interest,1,WORD::calculate CI for,6.770445346832275
+compound_interest,2,WORD::calculate CI,6.770445346832275
+compound_interest,3,WORD::CI,6.770445346832275
+compound_interest,4,WORD::CI for,6.770445346832275
+compound_interest,5,WORD::compound interest,5.588964939117432
+compound_interest,6,CHAR::CI ,5.058983325958252
+compound_interest,7,CHAR:: CI,5.058983325958252
+compound_interest,8,CHAR:: CI ,5.058983325958252
+compound_interest,9,WORD::compound,4.900465488433838
+compound_interest,10,CHAR::und ,3.285771131515503
+compound_interest,11,CHAR::ompou,3.285771131515503
+compound_interest,12,CHAR::ound ,3.285771131515503
+compound_interest,13,CHAR::compo,3.285771131515503
+compound_interest,14,CHAR::ompo,3.285771131515503
+compound_interest,15,CHAR::mpo,3.285771131515503
+division,1,WORD::over,10.504344940185547
+division,2,CHAR:: ove,6.079512596130371
+division,3,CHAR::over ,6.079512596130371
+division,4,CHAR::ver ,6.079512596130371
+division,5,CHAR:: ov,6.079512596130371
+division,6,CHAR:: over,6.079512596130371
+division,7,CHAR::over,6.079512596130371
+division,8,CHAR::ove,5.604413032531738
+division,9,WORD::quotient of,4.563636779785156
+division,10,WORD::the quotient of,4.563636779785156
+division,11,CHAR::ver,4.539582252502441
+division,12,WORD::divide,4.448158264160156
+division,13,WORD::OP_DIV,4.098811626434326
+division,14,WORD::SIG_OP_DIV,4.098811626434326
+division,15,CHAR::er ,4.060953617095947
+emi,1,WORD::EMI for,4.897835731506348
+emi,2,WORD::EMI,4.897835731506348
+emi,3,WORD::loan,3.7085611820220947
+emi,4,CHAR::EMI ,3.6435546875
+emi,5,CHAR::MI ,3.6435546875
+emi,6,CHAR:: EM,3.6435546875
+emi,7,CHAR:: EMI ,3.6435546875
+emi,8,CHAR:: EMI,3.6435546875
+emi,9,CHAR::EMI,3.6435546875
+emi,10,WORD::monthly,3.431246757507324
+emi,11,CHAR::oan,2.768688201904297
+emi,12,CHAR:: loan,2.768688201904297
+emi,13,CHAR:: loa,2.768688201904297
+emi,14,CHAR::loan,2.768688201904297
+emi,15,CHAR::loan ,2.768688201904297
+equation,1,WORD::SIG_OP_EQUAL,4.262929916381836
+equation,2,CHAR::P_EQU,3.93337082862854
+equation,3,CHAR::P_EQ,3.93337082862854
+equation,4,CHAR::EQUA,3.93337082862854
+equation,5,CHAR::OP_EQ,3.93337082862854
+equation,6,CHAR::OP_E,3.93337082862854
+equation,7,CHAR::P_E,3.93337082862854
+equation,8,CHAR::QUA,3.93337082862854
+equation,9,CHAR::AL ,3.93337082862854
+equation,10,CHAR::_EQUA,3.93337082862854
+equation,11,CHAR::QUAL,3.93337082862854
+equation,12,CHAR::EQU,3.93337082862854
+equation,13,CHAR::_EQU,3.93337082862854
+equation,14,CHAR::_EQ,3.93337082862854
+equation,15,CHAR::UAL ,3.93337082862854
+factorial,1,CHAR:: 1!,3.3749372959136963
+factorial,2,CHAR:: 1! ,3.3749372959136963
+factorial,3,CHAR::1! ,3.3749372959136963
+factorial,4,CHAR:: 2! ,2.950049638748169
+factorial,5,CHAR::2! ,2.950049638748169
+factorial,6,CHAR:: 2!,2.950049638748169
+factorial,7,CHAR:: 4!,2.8805789947509766
+factorial,8,CHAR:: 4! ,2.8805789947509766
+factorial,9,CHAR::4! ,2.8805789947509766
+factorial,10,WORD::factorial,2.869694709777832
+factorial,11,CHAR:: 5!,2.86275315284729
+factorial,12,CHAR::5! ,2.86275315284729
+factorial,13,CHAR:: 5! ,2.86275315284729
+factorial,14,CHAR:: 3! ,2.8575451374053955
+factorial,15,CHAR:: 3!,2.8575451374053955
+generic_expression,1,WORD::compute the value,5.339661121368408
+generic_expression,2,WORD::this,5.025058746337891
+generic_expression,3,WORD::compute the,4.414568901062012
+generic_expression,4,WORD::expression,4.406280994415283
+generic_expression,5,CHAR:: of:,3.9779367446899414
+generic_expression,6,CHAR::of:,3.9779367446899414
+generic_expression,7,CHAR::of: ,3.9779367446899414
+generic_expression,8,CHAR:: of: ,3.9779367446899414
+generic_expression,9,CHAR::f: ,3.9779367446899414
+generic_expression,10,WORD::solve this calculation,3.6724653244018555
+generic_expression,11,WORD::solve this,3.6724653244018555
+generic_expression,12,WORD::the value of,3.501669406890869
+generic_expression,13,WORD::the value,3.501669406890869
+generic_expression,14,WORD::value of,3.3582170009613037
+generic_expression,15,CHAR::ion: ,3.3573386669158936
+logarithm,1,WORD::ln,12.698660850524902
+logarithm,2,WORD::log10,7.7442169189453125
+logarithm,3,CHAR::ln ,6.472276210784912
+logarithm,4,CHAR:: ln,6.472276210784912
+logarithm,5,CHAR:: ln ,6.472276210784912
+logarithm,6,WORD::calculate log10,5.423148155212402
+logarithm,7,CHAR:: log,5.053640365600586
+logarithm,8,CHAR::log,5.053640365600586
+logarithm,9,WORD::log10 of,4.7268571853637695
+logarithm,10,WORD::ln 1,4.641402244567871
+logarithm,11,CHAR:: lo,4.482797145843506
+logarithm,12,WORD::logarithm of,4.0485100746154785
+logarithm,13,WORD::logarithm,4.0485100746154785
+logarithm,14,CHAR:: log1,3.769937515258789
+logarithm,15,CHAR::log1,3.769937515258789
+multiplication,1,WORD::times,9.564652442932129
+multiplication,2,CHAR::imes ,5.576903343200684
+multiplication,3,CHAR::times,5.576903343200684
+multiplication,4,CHAR::imes,5.576903343200684
+multiplication,5,WORD::multiply,4.701571464538574
+multiplication,6,CHAR::mes ,4.693367004394531
+multiplication,7,CHAR::mes,4.693367004394531
+multiplication,8,CHAR::tim,4.28066873550415
+multiplication,9,CHAR::time,4.28066873550415
+multiplication,10,CHAR:: tim,4.28066873550415
+multiplication,11,CHAR:: ti,4.28066873550415
+multiplication,12,CHAR:: time,4.28066873550415
+multiplication,13,CHAR::ime,4.28066873550415
+multiplication,14,WORD::OP_MUL,4.271336555480957
+multiplication,15,WORD::SIG_OP_MUL,4.271336555480957
+percent_decrease,1,WORD::decrease,7.880417346954346
+percent_decrease,2,CHAR:: decr,5.8845648765563965
+percent_decrease,3,CHAR:: dec,5.8845648765563965
+percent_decrease,4,CHAR::decre,5.8845648765563965
+percent_decrease,5,CHAR::ecre,5.8845648765563965
+percent_decrease,6,CHAR::ecrea,5.8845648765563965
+percent_decrease,7,CHAR::ecr,5.8845648765563965
+percent_decrease,8,CHAR::dec,5.8845648765563965
+percent_decrease,9,CHAR::decr,5.8845648765563965
+percent_decrease,10,WORD::OP_PERCENT from,5.520068645477295
+percent_decrease,11,WORD::reduce,4.6497673988342285
+percent_decrease,12,WORD::by,4.257863998413086
+percent_decrease,13,WORD::subtract,4.1504340171813965
+percent_decrease,14,CHAR:: de,3.3706777095794678
+percent_decrease,15,WORD::OP_PERCENT decrease,3.319171190261841
+percent_increase,1,WORD::OP_PERCENT to,10.023828506469727
+percent_increase,2,WORD::increase,7.429649353027344
+percent_increase,3,WORD::raise,5.8482441902160645
+percent_increase,4,CHAR:: inc,5.592279434204102
+percent_increase,5,CHAR::incre,5.592279434204102
+percent_increase,6,CHAR::ncr,5.592279434204102
+percent_increase,7,CHAR:: incr,5.592279434204102
+percent_increase,8,CHAR::ncre,5.592279434204102
+percent_increase,9,CHAR::incr,5.592279434204102
+percent_increase,10,CHAR::ncrea,5.592279434204102
+percent_increase,11,WORD::add,4.727133750915527
+percent_increase,12,WORD::by,4.430285930633545
+percent_increase,13,CHAR::inc,4.226132392883301
+percent_increase,14,WORD::OP_PERCENT to 1,3.9256834983825684
+percent_increase,15,CHAR::ise ,3.758009910583496
+percentage,1,WORD::OP_PERCENT of,11.792737007141113
+percentage,2,WORD::of,7.617610931396484
+percentage,3,WORD::percent of,6.00866174697876
+percentage,4,CHAR::of ,5.573805809020996
+percentage,5,CHAR:: of ,5.573805809020996
+percentage,6,WORD::OP_PERCENT from,5.5656843185424805
+percentage,7,CHAR:: of,5.480525493621826
+percentage,8,WORD::percent,3.99296236038208
+percentage,9,WORD::OP_PERCENT of 1,3.8893370628356934
+percentage,10,WORD::of 1,3.373964548110962
+percentage,11,WORD::from,3.066723585128784
+percentage,12,CHAR::cent ,2.949232339859009
+percentage,13,CHAR::rcen,2.9263722896575928
+percentage,14,CHAR::cen,2.9263722896575928
+percentage,15,CHAR::erc,2.9263722896575928
+power,1,WORD::power,7.6577301025390625
+power,2,WORD::raised,5.838136672973633
+power,3,WORD::raised to,5.838136672973633
+power,4,WORD::to,5.195373058319092
+power,5,CHAR::pow,4.992744445800781
+power,6,CHAR::ower,4.992744445800781
+power,7,CHAR:: pow,4.992744445800781
+power,8,CHAR:: powe,4.992744445800781
+power,9,CHAR::owe,4.992744445800781
+power,10,CHAR::powe,4.992744445800781
+power,11,CHAR::wer,4.992744445800781
+power,12,CHAR::power,4.992744445800781
+power,13,CHAR::wer ,4.895072937011719
+power,14,CHAR::ower ,4.895072937011719
+power,15,WORD::to the,4.545649528503418
+simple_interest,1,WORD::calculate SI for,7.041863441467285
+simple_interest,2,WORD::calculate SI,7.041863441467285
+simple_interest,3,WORD::SI for,7.041863441467285
+simple_interest,4,WORD::SI,7.041863441467285
+simple_interest,5,WORD::simple interest,5.404091835021973
+simple_interest,6,WORD::simple,5.404091835021973
+simple_interest,7,CHAR:: SI ,5.280239582061768
+simple_interest,8,CHAR::SI ,5.280239582061768
+simple_interest,9,CHAR::le ,3.616743564605713
+simple_interest,10,CHAR::imp,3.616743564605713
+simple_interest,11,CHAR::impl,3.616743564605713
+simple_interest,12,CHAR::imple,3.616743564605713
+simple_interest,13,CHAR::mple,3.616743564605713
+simple_interest,14,CHAR::mple ,3.616743564605713
+simple_interest,15,CHAR::mpl,3.616743564605713
+square_root,1,WORD::sqrt,11.025518417358398
+square_root,2,CHAR:: sq,6.653152942657471
+square_root,3,CHAR::sqrt,6.173588752746582
+square_root,4,CHAR:: sqr,6.173588752746582
+square_root,5,CHAR:: sqrt,6.173588752746582
+square_root,6,CHAR::sqr,6.173588752746582
+square_root,7,CHAR::qrt,6.173588752746582
+square_root,8,WORD::evaluate sqrt,5.5256733894348145
+square_root,9,CHAR::qrt ,5.476584434509277
+square_root,10,CHAR::sqrt ,5.476584434509277
+square_root,11,WORD::root of,5.315666198730469
+square_root,12,WORD::root,5.315666198730469
+square_root,13,CHAR::rt ,4.168564796447754
+square_root,14,WORD::the root of,3.865875482559204
+square_root,15,WORD::the root,3.865875482559204
+statistics,1,WORD::mode,4.868305206298828
+statistics,2,WORD::8,4.1198625564575195
+statistics,3,WORD::9,4.1034135818481445
+statistics,4,WORD::7,3.8802573680877686
+statistics,5,WORD::6,3.6649057865142822
+statistics,6,WORD::4,3.6486756801605225
+statistics,7,WORD::5,3.6015615463256836
+statistics,8,WORD::minimum,3.5970091819763184
+statistics,9,WORD::3,3.5681965351104736
+statistics,10,"CHAR::0, ",3.5503106117248535
+statistics,11,"CHAR::6, ",3.513274908065796
+statistics,12,"CHAR::1, ",3.5128679275512695
+statistics,13,"CHAR::2, ",3.5122909545898438
+statistics,14,WORD::2,3.498237133026123
+statistics,15,"CHAR::4, ",3.4947495460510254
+subtraction,1,WORD::less,8.608858108520508
+subtraction,2,WORD::minus,7.735793590545654
+subtraction,3,WORD::from,4.984798908233643
+subtraction,4,CHAR:: les,4.705158233642578
+subtraction,5,CHAR:: less,4.705158233642578
+subtraction,6,CHAR:: le,4.705158233642578
+subtraction,7,CHAR::less ,4.705158233642578
+subtraction,8,CHAR::less,4.705158233642578
+subtraction,9,CHAR::ess ,4.705158233642578
+subtraction,10,CHAR::ss ,4.705158233642578
+subtraction,11,CHAR::inus ,4.134161472320557
+subtraction,12,CHAR::inus,4.134161472320557
+subtraction,13,CHAR::inu,4.134161472320557
+subtraction,14,CHAR::minus,4.134161472320557
+subtraction,15,CHAR::nus ,4.134161472320557
+trigonometry,1,WORD::degrees,5.466460704803467
+trigonometry,2,WORD::calculate sine,4.453833103179932
+trigonometry,3,WORD::sine,4.327757358551025
+trigonometry,4,WORD::calculate tangent,3.9627792835235596
+trigonometry,5,CHAR::sine(,3.826185941696167
+trigonometry,6,CHAR::ne(,3.826185941696167
+trigonometry,7,CHAR::ine(,3.826185941696167
+trigonometry,8,CHAR::sin,3.7472944259643555
+trigonometry,9,CHAR::sine,3.7246663570404053
+trigonometry,10,WORD::tangent,3.7126684188842773
+trigonometry,11,CHAR::ees,3.658557415008545
+trigonometry,12,CHAR::ree,3.658557415008545
+trigonometry,13,CHAR::degre,3.658557415008545
+trigonometry,14,CHAR::egree,3.658557415008545
+trigonometry,15,CHAR::deg,3.658557415008545
+unit_conversion,1,WORD::convert,5.526995658874512
+unit_conversion,2,WORD::many,3.531198501586914
+unit_conversion,3,WORD::how many,3.531198501586914
+unit_conversion,4,WORD::how,2.884181022644043
+unit_conversion,5,WORD::km,2.855712652206421
+unit_conversion,6,WORD::miles,2.855712652206421
+unit_conversion,7,WORD::kg,2.83168888092041
+unit_conversion,8,WORD::pounds,2.83168888092041
+unit_conversion,9,WORD::feet,2.8205084800720215
+unit_conversion,10,WORD::meters,2.8205084800720215
+unit_conversion,11,CHAR::ert ,2.4965779781341553
+unit_conversion,12,CHAR::ert,2.4965779781341553
+unit_conversion,13,CHAR::onve,2.4965779781341553
+unit_conversion,14,CHAR:: conv,2.4965779781341553
+unit_conversion,15,CHAR:: con,2.4965779781341553

@@ -1,0 +1,24 @@
+,precision,recall,f1-score,support
+addition,1.0,1.0,1.0,10000.0
+cagr,1.0,1.0,1.0,10000.0
+compound_interest,1.0,1.0,1.0,10000.0
+division,1.0,1.0,1.0,10000.0
+emi,1.0,1.0,1.0,10000.0
+equation,1.0,1.0,1.0,10000.0
+factorial,1.0,1.0,1.0,10000.0
+generic_expression,1.0,1.0,1.0,10000.0
+logarithm,1.0,1.0,1.0,10000.0
+multiplication,1.0,1.0,1.0,10000.0
+percent_decrease,1.0,1.0,1.0,10000.0
+percent_increase,1.0,1.0,1.0,10000.0
+percentage,1.0,1.0,1.0,10000.0
+power,1.0,1.0,1.0,10000.0
+simple_interest,1.0,1.0,1.0,10000.0
+square_root,1.0,1.0,1.0,10000.0
+statistics,1.0,1.0,1.0,10000.0
+subtraction,1.0,1.0,1.0,10000.0
+trigonometry,1.0,1.0,1.0,10000.0
+unit_conversion,1.0,1.0,1.0,10000.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,200000.0
+weighted avg,1.0,1.0,1.0,200000.0
